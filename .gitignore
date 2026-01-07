@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/*
+
+# Pycharm IDE
+**/.DS_Store
+**/.idea
+.idea/**
+.DS_Store/**
+**/.pyc
+__pycache__
+_pycache_.pyc
+__pycache__/
+__pycache__/**
