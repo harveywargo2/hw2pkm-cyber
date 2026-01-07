@@ -1,2 +1,2 @@
-# hw2cybernb
-Open Sourced Cyber Notes
+# hw2pkm-cyber
+Personal Knowledge Management via Obsidian MD Notebook
