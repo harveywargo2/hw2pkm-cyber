@@ -8,8 +8,9 @@
 - https://posts.specterops.io/an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch-84943c13d7eb
 
 ## LDAP Search Examples
-Contains (!(userAccountControl:1.2.840.113556.1.4.803:=2))
-
+```
+(!(userAccountControl:1.2.840.113556.1.4.803:=2))
+```
 userAccountControl
 - This is the attribute in Active Directory that holds a set of bit flags (a single numerical value where each bit represents a different account setting).
 

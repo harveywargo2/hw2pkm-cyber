@@ -4,7 +4,6 @@ Example
 
 
 ## Adfind
-
 AdFind is a command-line tool used to query Active Directory.
 
 It's a versatile tool that can be used for both legitimate administrative tasks and malicious purposes, such as reconnaissance by attackers.
