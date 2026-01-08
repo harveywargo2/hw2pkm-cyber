@@ -1,3 +1,9 @@
+## Ref
+- https://derkvanderwoude.medium.com/active-directory-enumeration-detected-by-microsoft-security-solutions-9f983ab3382a
+- https://redcanary.com/threat-detection-report/techniques/domain-trust-discovery/#:~:text=Nltest%20is%20a%20native%20Microsoft,name%20a%20few%20important%20features.
+- https://notes.benheater.com/books/active-directory/page/manual-enumeration
+- https://blog.certcube.com/ad-recon-for-beginners/
+
 ## Dsquery
 Example
 - https://posts.specterops.io/an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch-84943c13d7eb
