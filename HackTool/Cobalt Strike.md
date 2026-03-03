@@ -1,4 +1,9 @@
 ## Ref
+- https://jonny-johnson.medium.com/bypassing-access-mask-auditing-strategies-480fb641c158
+- https://www.cobaltstrike.com/blog/why-is-notepad-exe-connecting-to-the-internet
+- https://jsecurity101.medium.com/bypassing-access-mask-auditing-strategies-480fb641c158
+- https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1#cobaltstrike-jump-psexec_psh
+
 Blog
 - https://www.cobaltstrike.com/blog?source=post_page-----dc46b2c5f575---------------------------------------
 - https://www.trustedsec.com/blog/red-teaming-with-cobalt-strike-not-so-obvious-features/
@@ -19,3 +24,6 @@ Youtube Guide
 
 Configs
 - https://www.elastic.co/security-labs/extracting-cobalt-strike-beacon-configurations
+
+Redirector
+- https://hunt.io/blog/detecting-redguard-c2-redirector|

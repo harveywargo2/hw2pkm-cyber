@@ -5,3 +5,4 @@
 - https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/dcsync
 - https://blog.blacklanternsecurity.com/p/detecting-dcsync
 - https://adsecurity.org/?p=1729;%20https://blog.didierstevens.com/2017/10/08/quickpost-mimikatz-dcsync-detection/
+- https://blog.nviso.eu/2021/11/15/detecting-dcsync-and-dcshadow-network-traffic/

@@ -3,6 +3,7 @@ Apple Code Signing is a fundamental macOS and iOS security technology that uses 
 - Authenticity (Who made it): It verifies that the app was created by a specific, identified developer whose identity has been validated by Apple (via the Apple Developer Program).
 - Integrity (Has it been changed): It ensures that the app's code has not been altered or tampered with since the developer finished building and signing it
 
+
 Signing
 - Developer
 - Identity & Integrity
@@ -13,7 +14,7 @@ Notarization
 - Apple automated scanning
 - Ticket granted by apple
 
-  
+
 Revocations
 - CSSMERR_TP_CERT_REVOKED
 
@@ -30,3 +31,4 @@ TAOMM
 - Status: revoked signature, no signature, signed by a developer certificate issued by Apple for distribution
 - Is notarized: trusted by the Apple notary service
 - Signing auths:
+
